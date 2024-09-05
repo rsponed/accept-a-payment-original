@@ -15,3 +15,4 @@ gem 'capybara'
 gem 'capybara-screenshot'
 
 gem 'rspec-github', require: false
+test
